@@ -1,0 +1,7 @@
+{
+  "name": "vlaamse_vinyl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
